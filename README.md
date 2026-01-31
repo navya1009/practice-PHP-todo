@@ -77,3 +77,5 @@ Edit the CSS variables in the `<style>` block:
     --primary: #6366f1;     /* Main accent color */
     --danger: #ef4444;      /* Delete button */
 }
+
+⚠️ This is a practice project created while learning web development fundamentals.
